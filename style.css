@@ -1,35 +1,44 @@
-body, html {
+body,
+html {
     height: 100%;
     margin: 0;
     font-family: 'SF Pro Display', sans-serif;
 }
-.bg{
+
+.bg {
     background-image: url(background.jpg);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .row {
     margin-left: 0px;
     margin-right: 0px;
 }
+
 .container {
     max-width: 375px;
 }
-.help-text{
-    font-size:14px;
+
+.help-text {
+    font-size: 14px;
 }
-.header-text{
-    font-size:20px;
+
+.header-text {
+    font-size: 20px;
 }
-.btn{
-    width:100px;
+
+.btn {
+    width: 100px;
 }
+
 .pre-scrollable {
-    max-height: 200px;
+    max-height: 150px;
     overflow-y: scroll;
 }
-#remove{
+
+#remove {
     max-width: 50px;
 }
