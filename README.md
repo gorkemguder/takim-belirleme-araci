@@ -18,3 +18,4 @@ Eklenen üyelerin tümü tek seferde kaldırılabilir. Spesifik olarak da kaldı
 
 Gerekli ve yeterli koşulların sağlanması ile beraber **Takımları Dağıt** butonuna basıldığında, eklenen tüm üyeler **rastgele bir şekilde** dağıtılacaktır.
 
+![preview5](https://github.com/gorkemguder/takim-belirleme-araci/assets/117344704/96ffad5a-58a6-42d9-8182-11855069dcbd)
