@@ -35,10 +35,19 @@ html {
 }
 
 .pre-scrollable {
-    max-height: 150px;
+    max-height: 135px;
     overflow-y: scroll;
 }
 
 #remove {
     max-width: 50px;
+}
+
+#info {
+    margin-bottom: 3px;
+    margin-right: 2px;
+}
+
+#teamHeader {
+    font-size: 20px;
 }
